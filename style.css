@@ -54,15 +54,9 @@ footer {
   color: white;
 }
 
-.bnr {
-    height: 20px;
-    width: 20px;
-    font-size: xx-large;
-}
-
 .gld {
-    height: 20px;
-    width: 20px;
+    height: 150px;
+    width: 200px;
     font-size: xx-large;
     color: #FFD700; /* Gold color */
 }
